@@ -1,0 +1,65 @@
+[
+    {
+        "classes": [
+            {
+                "class_name": "CSC 211 - Advance Programming",
+                "class_time": "10:00 AM - 11:40 AM",
+                "prof_email": "prof.azhar@bmcc.cuny.edu",
+                "professor": "Prof. Azhar"
+            },
+            {
+                "class_name": "MAT 409 - Statistic and Probability",
+                "class_time": "12:00 PM - 2:15 PM",
+                "prof_email": "prof.li@bmcc.cuny.edu",
+                "professor": "Prof. Li"
+            },
+            {
+                "class_name": "MAT 415 - Linear Algebra",
+                "class_time": "3:00 PM - 5:00 PM",
+                "prof_email": "prof.stout@bmcc.cuny.edu",
+                "professor": "Prof. Stout"
+            }
+        ],
+        "cuny_id": "111",
+        "email": "israt@stu.bmcc.cuny.edu",
+        "name": "Israt Jahan"
+    },
+    {
+        "classes": [
+            {
+                "class_name": "SPE 102",
+                "class_time": "12:00 PM - 1:20 PM",
+                "prof_email": "prof.ritchey@gmail.com",
+                "professor": "Prof Ritchey"
+            },
+            {
+                "class_name": "MAT 301",
+                "class_time": "2:00 PM - 4:00 PM",
+                "prof_email": "prof.li@gmail.com",
+                "professor": "Prof Li"
+            }
+        ],
+        "cuny_id": "222",
+        "email": "will@gmail.com",
+        "name": "Will Smith"
+    },
+    {
+        "classes": [
+            {
+                "class_name": "SPE 102",
+                "class_time": "12:00 PM - 1:15 PM",
+                "prof_email": "prof.ritchey@gmail.com",
+                "professor": "Prof Ritchey"
+            },
+            {
+                "class_name": "CSC 211H",
+                "class_time": "3:00 PM - 5:15 PM",
+                "prof_email": "prof.azhar@gmail.com",
+                "professor": "Prof Azhar"
+            }
+        ],
+        "cuny_id": "333",
+        "email": "israt@gmail.com",
+        "name": "Israt Jahan"
+    }
+]
